@@ -7,8 +7,8 @@
      OpenCV (for image processing)
      MediaPipe (for hand tracking)
      NumPy
-     TensorFlow / PyTorch (for ML model)
-     pyttsx3 or gTTS (for voice output)
+     TensorFlow (for ML model)
+     pyttsx3 (for voice output)
 
 **Installation & Setup**_
     Clone the repository-
