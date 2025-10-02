@@ -10,7 +10,7 @@
      TensorFlow (for ML model)
      pyttsx3 (for voice output)
 
-**Installation & Setup**_
+**Installation & Setup**-
     Clone the repository-
     
     git clone https://github.com/Prxnv0/alphabet-recognition-air-canvas1.git
