@@ -13,11 +13,11 @@
 **Installation & Setup**_
     Clone the repository-
     
-    git clone https://github.com/<your-username>/air-canvas.git
+    git clone https://github.com/Prxnv0/alphabet-recognition-air-canvas1.git
 
   open the the folder-
       
-    cd air-canvas
+    cd alphabet-recognition-air-canvas1
 
 Run the application-
      
