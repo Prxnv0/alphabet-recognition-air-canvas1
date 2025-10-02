@@ -21,7 +21,7 @@
 
 Run the application-
      
-    python air_canvas.py
+    python canvas4.py
 
           
 
